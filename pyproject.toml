@@ -1,0 +1,12 @@
+[project]
+name = "coffee"
+version = "0.1.0"
+dependencies = [
+  "ipython",
+  "ipykernel",
+  "ipywidgets",
+  "scikit-learn", 
+  "pandas",
+  "matplotlib",
+  "seaborn"
+]
